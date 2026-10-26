@@ -1,0 +1,3 @@
+# keep data files byte-exact so that their SHA-256 checksums hold on every platform
+data/*.csv binary
+*.png binary
