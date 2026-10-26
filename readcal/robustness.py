@@ -179,7 +179,7 @@ for lab, _ in LABS:
         for w in s:
             counts[w] = counts.get(w, 0) + 1
     out["vocab_stability"][lab] = {"distinct_sets": len(set(sets)),
-                                   "phrase_counts": dict(sorted(counts.items(), key=lambda t: -t[1]))}
+                                   "phrase_counts": dict(sorted(counts.items(), key=lambda t: (-t[1], t[0])))}
 
 # heterogeneous reader groups: the online group's readings are pulled towards 0.5 --------------------------------
 shifted = GR == GROUPS[0]

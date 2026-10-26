@@ -641,9 +641,9 @@
   "strict": {
    "distinct_sets": 6,
    "phrase_counts": {
+    "About Even": 25,
     "Little Chance": 25,
     "Very Good Chance": 25,
-    "About Even": 25,
     "Unlikely": 17,
     "Better Than Even": 13,
     "Probably Not": 10,
@@ -654,8 +654,8 @@
   "lenient": {
    "distinct_sets": 9,
    "phrase_counts": {
-    "Almost Certain": 25,
     "About Even": 25,
+    "Almost Certain": 25,
     "Likely": 24,
     "Little Chance": 21,
     "Probably Not": 12,
