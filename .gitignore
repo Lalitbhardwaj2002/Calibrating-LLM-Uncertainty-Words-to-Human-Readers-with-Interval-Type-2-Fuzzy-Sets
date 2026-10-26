@@ -1,0 +1,10 @@
+# data sets that are downloaded by download_data.py (only the MIT-licensed probly.csv is redistributed)
+data/dataset.json
+data/survey-results.csv
+
+# outputs of run_all.py (reference outputs are kept in expected_results/)
+results/
+
+__pycache__/
+*.pyc
+.DS_Store

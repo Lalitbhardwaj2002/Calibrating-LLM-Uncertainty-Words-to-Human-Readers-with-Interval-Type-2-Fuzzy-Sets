@@ -1,0 +1,12 @@
+{
+  "title": "Calibrating LLM Uncertainty Words to Human Readers with Interval Type-2 Fuzzy Sets (code)",
+  "upload_type": "software",
+  "description": "Code that reproduces all experiments, tables and figures of the article \"Calibrating LLM Uncertainty Words to Human Readers with Interval Type-2 Fuzzy Sets\". ReadCal estimates claim reliability from the self-consistency of an LLM with a nine-rule fuzzy engine, models how 165 survey respondents read 15 probability phrases as interval type-2 fuzzy sets, and chooses for each claim the phrase with the lowest expected Brier loss for the worst-served reader group. The data are public and are downloaded from fixed versions with checksums.",
+  "creators": [
+    {"name": "Bhardwaj, Lalit", "affiliation": "Department of Mathematics, Chaudhary Charan Singh University, Meerut, India"},
+    {"name": "Sharma, M. K.", "affiliation": "Department of Mathematics, Chaudhary Charan Singh University, Meerut, India"}
+  ],
+  "license": "mit",
+  "keywords": ["large language models", "uncertainty communication", "linguistic hedges", "interval type-2 fuzzy sets",
+               "calibration", "explainable AI"]
+}

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and this software."
+title: "Calibrating LLM Uncertainty Words to Human Readers with Interval Type-2 Fuzzy Sets (code)"
+type: software
+version: 1.0.0
+date-released: 2026-10-26
+license: MIT
+repository-code: "https://github.com/Lalitbhardwaj2002/Calibrating-LLM-Uncertainty-Words-to-Human-Readers-with-Interval-Type-2-Fuzzy-Sets"
+authors:
+  - family-names: Bhardwaj
+    given-names: Lalit
+    affiliation: "Department of Mathematics, Chaudhary Charan Singh University, Meerut, India"
+  - family-names: Sharma
+    given-names: M. K.
+    affiliation: "Department of Mathematics, Chaudhary Charan Singh University, Meerut, India"
+keywords:
+  - large language models
+  - uncertainty communication
+  - linguistic hedges
+  - interval type-2 fuzzy sets
+  - calibration
+  - explainable AI

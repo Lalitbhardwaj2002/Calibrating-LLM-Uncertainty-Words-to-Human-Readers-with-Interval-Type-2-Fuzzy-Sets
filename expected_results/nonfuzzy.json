@@ -1,0 +1,34 @@
+{
+ "centroid_minus_mean": {
+  "mean": 0.008528583541873762,
+  "max": 0.028275167630402234
+ },
+ "spread_minus_variance_plus_b2": {
+  "mean": 0.001155507372794909,
+  "max": 0.008016225401663708
+ },
+ "strict": {
+  "r_ece": {
+   "empirical_pooled": 0.06533348893079804,
+   "empirical_group_robust": 0.06604871201448446,
+   "type1_15": 0.06704502328502618,
+   "it2_15": 0.06644182679053885
+  },
+  "same_phrase_share": {
+   "empirical_pooled_vs_type1": 0.9330398322851151,
+   "empirical_group_robust_vs_it2": 0.9547798742138365
+  }
+ },
+ "lenient": {
+  "r_ece": {
+   "empirical_pooled": 0.06709726859792899,
+   "empirical_group_robust": 0.06589759068674161,
+   "type1_15": 0.06823756368718632,
+   "it2_15": 0.06642127048599199
+  },
+  "same_phrase_share": {
+   "empirical_pooled_vs_type1": 0.9465828092243187,
+   "empirical_group_robust_vs_it2": 0.900691823899371
+  }
+ }
+}
