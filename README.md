@@ -1,5 +1,7 @@
 # Calibrating LLM Uncertainty Words to Human Readers with Interval Type-2 Fuzzy Sets
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23656987.svg)](https://doi.org/10.5281/zenodo.23656987)
+
 Code for the article of the same title by **Lalit Bhardwaj** and **M. K. Sharma**
 (Department of Mathematics, Chaudhary Charan Singh University, Meerut, U.P., India).
 
@@ -62,7 +64,7 @@ No new data were collected.
 
 ## Citation
 
-Please cite the article. Citation metadata for this code are in `CITATION.cff`.
+Please cite the article. The code is archived on Zenodo: version 1.0.0 at <https://doi.org/10.5281/zenodo.23656988>, all versions at <https://doi.org/10.5281/zenodo.23656987>. Citation metadata are in `CITATION.cff`.
 
 ## Licence
 

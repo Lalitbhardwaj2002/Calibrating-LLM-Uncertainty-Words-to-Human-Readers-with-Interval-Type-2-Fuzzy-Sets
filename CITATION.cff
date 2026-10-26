@@ -5,6 +5,11 @@ type: software
 version: 1.0.0
 date-released: 2026-10-26
 license: MIT
+doi: 10.5281/zenodo.23656987
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23656988
+    description: "Version 1.0.0 archived on Zenodo"
 repository-code: "https://github.com/Lalitbhardwaj2002/Calibrating-LLM-Uncertainty-Words-to-Human-Readers-with-Interval-Type-2-Fuzzy-Sets"
 authors:
   - family-names: Bhardwaj
